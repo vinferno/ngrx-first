@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 8421c5cef3d145d48a36d329429360829686829d vinsonf <vfernandez@shift3tech.com> 1631549909 -0700	commit (initial): initial commit
+8421c5cef3d145d48a36d329429360829686829d 18480f8b30b0fece52ea7bde39a6765147771a3f vinsonf <vfernandez@shift3tech.com> 1631552273 -0700	commit: step1 add ng schematics
+18480f8b30b0fece52ea7bde39a6765147771a3f 3b691bc74da81cbd4f757deee6c3425de50d1dd4 vinsonf <vfernandez@shift3tech.com> 1631552608 -0700	commit: ng generate store
+3b691bc74da81cbd4f757deee6c3425de50d1dd4 9c17f410acfac85e6f0d31981ad4d099bb991d2e vinsonf <vfernandez@shift3tech.com> 1631553339 -0700	commit: step 3 add ngrx dependencies
+9c17f410acfac85e6f0d31981ad4d099bb991d2e 371dbcdf8be37689686f7e36a3825161cd3671a0 vinsonf <vfernandez@shift3tech.com> 1631553776 -0700	commit: step 4 ng add action for user
+371dbcdf8be37689686f7e36a3825161cd3671a0 3bd2f61c31827d6c457a98b92e21d68cfcab18b8 vinsonf <vfernandez@shift3tech.com> 1631554556 -0700	commit: clear app component
+3bd2f61c31827d6c457a98b92e21d68cfcab18b8 9b5a3f2edeb88cea0937074ce101ee8f225a6fb3 vinsonf <vfernandez@shift3tech.com> 1631555302 -0700	commit: step 5 add feature reducers
+9b5a3f2edeb88cea0937074ce101ee8f225a6fb3 3a528b381d3f5f7c6d12665c7b8496d5a17891c0 vinsonf <vfernandez@shift3tech.com> 1631567267 -0700	commit: feat(user): add user actions and listeners
+3a528b381d3f5f7c6d12665c7b8496d5a17891c0 7f7cbb2f9a3f2132d200d7ca2eca383a8d2d52bd vinsonf <vfernandez@shift3tech.com> 1631572416 -0700	commit: user effects
+7f7cbb2f9a3f2132d200d7ca2eca383a8d2d52bd 86b7da5a6dcc789bf0f3eeca95436e0096ede57c vinsonf <vfernandez@shift3tech.com> 1632158428 -0700	commit: feat(user): store actions
+86b7da5a6dcc789bf0f3eeca95436e0096ede57c 8865e324d765f6d6414d0c48727f038f71475e73 vinsonf <vfernandez@shift3tech.com> 1632159807 -0700	pull origin master: Fast-forward
+8865e324d765f6d6414d0c48727f038f71475e73 4b1367d6f2dd872933800d2fe4d11adee25f40f8 vinsonf <vfernandez@shift3tech.com> 1632160216 -0700	pull origin master: Fast-forward
